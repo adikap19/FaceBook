@@ -1,0 +1,135 @@
+6
+6 11 1998
+Dolev Avior
+19 4 1999
+Adi Kapuri
+1 5 1999
+Jhon Doe
+12 2 2002
+lili
+8 8 1991
+anna
+8 1 1999
+emily
+4
+Cake lovers
+Fashion
+FootBall
+food
+Dolev Avior
+2
+Adi Kapuri
+anna
+0
+2
+StatusPicture
+15 12
+22 11 2022
+Hello
+Picture of a trip in Italy
+Status
+15 30
+22 11 2022
+How are you all doing?
+Adi Kapuri
+4
+Dolev Avior
+Jhon Doe
+lili
+anna
+0
+4
+StatusVideo
+16 30
+23 11 2022
+Hey
+1 22
+Video of nature
+Status
+17 30
+23 11 2022
+:)
+StatusVideo
+8 8
+9 1 2023
+ballet
+7 2
+dance
+Status
+8 8
+15 1 2023
+good night
+Jhon Doe
+1
+Adi Kapuri
+0
+2
+Status
+19 0
+24 11 2022
+Good evening
+Status
+0 30
+25 11 2022
+Good night
+lili
+1
+Adi Kapuri
+1
+food
+1
+StatusVideo
+5 5
+5 5 5
+flowers swinging
+8 8
+flowers
+anna
+2
+Dolev Avior
+Adi Kapuri
+0
+1
+StatusPicture
+5 7
+7 7 2022
+pink sky
+sky
+emily
+0
+1
+Fashion
+0
+Cake lovers
+2
+Status
+7 0
+25 11 2022
+Click on the link to get a good recipe!
+Status
+14 30
+25 11 2022
+Share some good cake recipes with us!
+Fashion
+2
+Status
+8 0
+9 12 2022
+Click on the link to get a coupon!
+Status
+14 30
+10 12 2022
+Best prices at the mall only today!
+FootBall
+2
+Status
+15 0
+10 12 2022
+Watch the game tonight!
+Status
+18 39
+10 12 2022
+Tell us, who you think is the winner team?
+food
+0
+

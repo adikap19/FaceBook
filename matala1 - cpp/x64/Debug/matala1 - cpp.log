@@ -1,0 +1,45 @@
+﻿  date.cpp
+  fanPage.cpp
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(38,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(39,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(40,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\fanPages.h(34,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\fanPages.h(35,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  statusPicture.cpp
+  statusVideo.cpp
+  time.cpp
+  status.cpp
+  user.cpp
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(38,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(39,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(40,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\fanPages.h(34,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\fanPages.h(35,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(38,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(39,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(40,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\fanPages.h(34,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\fanPages.h(35,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\faceBook.h(24,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\faceBook.h(25,31): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  faceBook.cpp
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(38,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(39,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(40,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\fanPages.h(34,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\fanPages.h(35,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\faceBook.h(24,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\faceBook.h(25,31): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  userInterface.cpp
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(38,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(39,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\users.h(40,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\fanPages.h(34,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\fanPages.h(35,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\faceBook.h(24,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\faceBook.h(25,31): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\userInterface.cpp(774): warning C4715: 'UserInterface::initTime': not all control paths return a value
+C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\matala1 - cpp\userInterface.cpp(798): warning C4715: 'UserInterface::initDate': not all control paths return a value
+  matala1 - cpp.vcxproj -> C:\Users\adika\Desktop\myprojects\FaceBook\faceBook3\x64\Debug\matala1RightOne - cpp.exe
